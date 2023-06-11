@@ -1,7 +1,7 @@
 # IOT-Infrastructure
 
 ### Description
-This product provides an infrastructure for companies that produce iot products, it provides receiving and monitoring updates from the specific products.
+This product provides an infrastructure for companies that produce iot products, it provides a way of receiving and monitoring updates from the specific products.
 
 ### Installation
  
