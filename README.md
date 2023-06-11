@@ -26,7 +26,7 @@ The IOT-Infrastructure was built using the following technologies:
 - MongoDB
 
 
-# Front-end
+#### Front-end
 - React
 - React-router-dom
 - Typescript
